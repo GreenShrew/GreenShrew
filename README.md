@@ -10,6 +10,8 @@
 
 2022.02.07 조별 프로젝트 시작. (Model2)
 
+2022.03.23 정보처리기사 필기 합격.
+
 2022.03.28 두번째 조별 프로젝트 시작. (Spring MVC)
 <!---
 GreenShrew/GreenShrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
