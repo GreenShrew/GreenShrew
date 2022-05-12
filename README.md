@@ -13,6 +13,8 @@
 2022.03.23 정보처리기사 필기 합격.
 
 2022.03.28 두번째 조별 프로젝트 시작. (Spring MVC)
+
+2022.05.11 백엔드 개발자 양성과정 교육 종료
 <!---
 GreenShrew/GreenShrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
